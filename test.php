@@ -7,7 +7,7 @@
 <body>
  <?php
   echo "Hallo Welt<br>";
-  echo "Weiter";  
+  echo "Das ist jetzt mein Spielplatz";  
   
  ?>
 </body>
