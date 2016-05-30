@@ -15,4 +15,5 @@ echo "Funktionstest";
 echo testfunktion();
 echo "Ergebnis:";
 echo testaddieren(4,4);
+echo "<br><br>Fertig";
 ?>
