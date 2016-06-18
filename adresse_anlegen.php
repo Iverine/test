@@ -24,6 +24,7 @@ class adresse {
       $this->ort = $ort;
       $this->telefon = $telefon;
       $this->email = $email;
+	echo "test";
  }
  private function db_setAdress(){
   $anix_query = "INSERT INTO adressliste (vorname, nachname, strasse, ort, telefon, email) VALUES ('$vorname', '$nachname', '$strasse', '$ort', '$telefon', '$email')";

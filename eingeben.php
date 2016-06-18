@@ -4,7 +4,7 @@
  </head>
  
  <body>
-  <form action=adresse_anlegen.php" method="post">
+  <form action="adresse_anlegen.php" method="post">
       Vorname: <input name="vorname" type="text" size="30" ><br><br>
       Nachname: <input name="nachname" type="text" size="30"><br><br>
       Strasse: <input name="strasse" type="text" size="30"><br><br>
